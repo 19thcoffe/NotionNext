@@ -49,7 +49,8 @@ const Footer = ({ title }) => {
         <br />
         <h1>{title}</h1>
         <span className='text-xs '>
-          记得要开心
+          <a 记得要开心>
+            </a>
         </span>
       </span>
       <br />
