@@ -66,7 +66,7 @@ const Player = () => {
         type='text/css'
         href='https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css'
       />
-      {meting ? (
+     // {meting ? (
         <meting-js
           fixed='true'
           type='playlist'
