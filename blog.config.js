@@ -312,7 +312,7 @@ const BLOG = {
     {
       name: '曾经是情侣',
       artist: '',
-      url: 'http://45.142.157.161:1111/down/8ywtT8mBSMNs',
+      url: 'http://45.142.157.161/guhui/320.mp3',
       cover:
         ''
     },
