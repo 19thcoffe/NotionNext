@@ -312,16 +312,16 @@ const BLOG = {
     {
       name: '曾经是情侣',
       artist: '',
-      url: 'http://www.456567.xyz:8096/Items/cb6a9405c62b7de2ec84546ceb8f7ba5/Download?api_key=cd97fdd062394df8b4f1295e24510ccf',
+      url: 'http://45.142.157.161:1111/down/8ywtT8mBSMNs',
       cover:
         ''
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '',
+      artist: '',
+      url: '',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        ''
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING ||  // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
